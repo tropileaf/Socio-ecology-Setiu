@@ -1,7 +1,7 @@
 This repository contains (anonymous) data and R code to understand how space and culture shape the conceptualisation of animal-related
 health risks in Setiu Wetland mangroves.
 
-Data analysis (long version) :
+Data analysis (long version):
 
 Quantitative data were entered into a spreadsheet and analyzed using descriptive and inferential statistics in R software (R Core Team, version 4.6.0). Categorical variables such as animal sightings, types of contact and perceived risks were summarized descriptively, following approaches commonly used in community-based studies assessing human-animal interactions and zoonotic disease awareness, such as Nguyen et al. (2025) and Pérez-Pérez et al. (2025).  
 Key variables such as occupation, mangrove use locations, wildlife encounter locations and perceived risks were grouped into broader analytical categories reflecting social-ecological contexts of human-wildlife interaction (Supplementary Material G). For statistical analyses, age was grouped into decadal categories (10–19, 20–29, 30–39, etc.) to facilitate comparisons across age groups while maintaining consistent interval widths between categories. These analytical age groups were independent of the legal distinction between adolescents (10–17 years) and adults (≥18 years) used for participant recruitment and ethical procedures. To account for differences in the number of species within each animal category, sighting frequencies were standardized by calculating the mean number of sightings per species. 
